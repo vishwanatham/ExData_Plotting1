@@ -1,3 +1,4 @@
+##Make sure to add the DataLoad.R file into working directoty before using this code
 source("DataLoad.R")
 
 png(filename = "plot4.png",width = 480,height = 480)
